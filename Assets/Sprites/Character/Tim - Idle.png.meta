@@ -1,8 +1,6 @@
 fileFormatVersion: 2
 guid: bc0b32a20c8e746f2938a4eaad65f486
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Tim - Idle
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -23,16 +21,16 @@ TextureImporter:
   generateCubemap: 0
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -43,6 +41,226 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Tim - Idle_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 22
+        width: 82
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 22
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 22
+        width: 84
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tim - Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 22
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
